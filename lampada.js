@@ -51,3 +51,4 @@ function disableButtons(onState, offState, blinkState) {
 function newListener(elementId, eventName, voidFunction) {
     document.getElementById(elementId).addEventListener(eventName, voidFunction);
 }
+//
