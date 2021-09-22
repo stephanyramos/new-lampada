@@ -2,7 +2,7 @@ Projeto criado com o objetivo didático para as aulas de PWEF do curso de Desenv
 
 O projeto consiste em criar uma lampada que tenha quatro ações.
 
-/ligar
+ligar
 /desligar
 /quebrar
 /piscar
