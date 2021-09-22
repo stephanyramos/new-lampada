@@ -2,9 +2,10 @@ Projeto criado com o objetivo didático para as aulas de PWEF do curso de Desenv
 
 O projeto consiste em criar uma lampada que tenha quatro ações.
 
--ligar
--desligar
--quebrar
+/ligar
+/desligar
+/quebrar
+/piscar
 
 todo o codigo foi construido seguindo as boas praticas , como responsabilidade unica e funções puras.
 
